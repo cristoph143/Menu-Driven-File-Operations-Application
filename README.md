@@ -5,15 +5,15 @@
 </p>
 <MDXTag name="p" components={components}>
   <h3 align="center">
-    { `Menu-Driven File Operations Application` }
+    Menu-Driven File Operations Application
   </h3>
 </MDXTag>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/your-repo-name/your-project-name.svg)](https://github.com/your-repo-name/your-project-name/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-repo-name/your-project-name.svg)](https://github.com/your-repo-name/your-project-name/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/cristoph143/Menu-Driven-File-Operations-Application.svg)](https://github.com/cristoph143/Menu-Driven-File-Operations-Application/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cristoph143/Menu-Driven-File-Operations-Application.svg)](https://github.com/cristoph143/Menu-Driven-File-Operations-Application/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -48,9 +48,6 @@ The application facilitates various file operations through a user-friendly menu
   - [✍️ Authors ](#️-authors-)
   - [🎉 Acknowledgements ](#-acknowledgements-)
 
-## 🧐 About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
